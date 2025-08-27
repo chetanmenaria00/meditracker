@@ -128,7 +128,7 @@ export default function SettingsPage() {
         </div>
 
         {/* Appearance */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+        {/* <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Appearance</h2>
           
           <div>
@@ -153,7 +153,7 @@ export default function SettingsPage() {
               )}
             </button>
           </div>
-        </div>
+        </div> */}
 
         {/* Privacy */}
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
